@@ -1,0 +1,16 @@
+{
+  "name": "Prosperty Real Estate",
+  "short_name": "Prosperty",
+  "description": "Research-based property buying, selling and investment advisory services across Chennai",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#b8964a",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ]
+}
