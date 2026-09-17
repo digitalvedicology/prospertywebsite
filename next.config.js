@@ -20,8 +20,6 @@ const nextConfig = {
       permanent: true, // 301 redirect
     },
   ],
-  // Allow Turbopack to use WASM bindings for older glibc systems
-  turbopack: {},
 }
 
 module.exports = nextConfig
