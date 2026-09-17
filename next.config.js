@@ -20,6 +20,10 @@ const nextConfig = {
       permanent: true, // 301 redirect
     },
   ],
+  // Use Webpack instead of Turbopack for compatibility with older glibc versions
+  experimental: {
+    turbopack: false,
+  },
 }
 
 module.exports = nextConfig
